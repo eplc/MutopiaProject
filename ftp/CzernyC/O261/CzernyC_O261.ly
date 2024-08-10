@@ -60,7 +60,6 @@ breaks = \autoLineBreaksOn
   \include "midi.ily"
 }
 
-
 \include "music/006.ily"
 \book {
   \bookOutputSuffix "006"
