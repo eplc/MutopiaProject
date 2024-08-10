@@ -21,7 +21,8 @@ dynamics = \relative {
 
 lh = \relative c {
   \clef bass
-  c16^5 g' d^4 g e^3 g f^4 g e g f g e g d g |
+  \stemDown
+  c16_5 g' d_4 g e_3 g f_4 g e g f g e g d g |
   c, g' d g e g f g e g f g e g d g |
   c, g' e^2 g d^3 g c,^4 g' b,^3 g' a,^4 g' b,^3 g' g,^5 g' |
   c,^4 e g e c e g e c8 r r4 |
