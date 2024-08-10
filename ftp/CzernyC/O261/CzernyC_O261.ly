@@ -53,6 +53,13 @@ breaks = \autoLineBreaksOn
   \include "midi.ily"
 }
 
+\include "music/005.ily"
+\book {
+  \bookOutputSuffix "005"
+  \include "exercise.ily"
+  \include "midi.ily"
+}
+
 
 
 
@@ -73,6 +80,9 @@ breaks = \autoLineBreaksOn
 \include "music/003.ily"
 \include "exercise.ily"
 
-breaks = \autoLineBreaksOn
 \include "music/004.ily"
+\include "exercise.ily"
+
+breaks = \autoLineBreaksOff
+\include "music/005.ily"
 \include "exercise.ily"
