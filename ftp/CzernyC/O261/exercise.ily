@@ -2,6 +2,7 @@
   \header {
     opus = \opus
   }
+
   \new PianoStaff = "main" \with {
     instrumentName = \markup {
       \center-column {

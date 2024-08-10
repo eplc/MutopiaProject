@@ -4,9 +4,12 @@
   composer            =       \markup { \bold "Carl Czerny" }
   mutopiacomposer     =       "CzernyC"
 
-  title               =       "125 Passagen-Übungen"
+  title               =       \markup { \fontsize #4 \medium \center-column \string-lines "125 
+                                Passagen-Übungen" }
   mutopiatitle        =       "125 Passagen-Übungen"
+  subtitle            =       \markup { \fontsize #4 \medium "Exercises for passage-playing / Exercises de passages" \vspace #1.5 }
 
+  opus                =       "Op. 261"
   mutopiaopus         =       "Op. 261"
 
   license             =       "Public Domain"
@@ -62,7 +65,7 @@ breaks = \autoLineBreaksOff
 \include "music/001.ily"
 \include "exercise.ily"
 
-opus = ""
+opus = ##f
 \include "music/002.ily"
 \include "exercise.ily"
 
