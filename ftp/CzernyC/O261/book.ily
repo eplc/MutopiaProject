@@ -22,3 +22,6 @@ breaks = \autoLineBreaksOff
 breaks = \autoLineBreaksOn
 \include "music/006.ily"
 \include "lib/exercise.ily"
+
+\include "music/007.ily"
+\include "lib/exercise.ily"
