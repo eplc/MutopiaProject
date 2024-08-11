@@ -35,3 +35,6 @@ breaks = { s1 s s s \break s s s s }
 breaks = { s1 s \break s s s \break s s s}
 \include "music/008.ily"
 \include "lib/exercise.ily"
+
+\include "music/009.ily"
+\include "lib/exercise.ily"
