@@ -25,74 +25,11 @@
 opus = "Op. 261"
 breaks = \autoLineBreaksOn
 
-\include "music/001.ily"
-\book {
-  \bookOutputSuffix "001"
-  \include "exercise.ily"
-  \include "midi.ily"
-}
-
-\include "music/002.ily"
-\book {
-  \bookOutputSuffix "002"
-  \include "exercise.ily"
-  \include "midi.ily"
-}
-
-\include "music/003.ily"
-\book {
-  \bookOutputSuffix "003"
-  \include "exercise.ily"
-  \include "midi.ily"
-}
-
-\include "music/004.ily"
-\book {
-  \bookOutputSuffix "004"
-  \include "exercise.ily"
-  \include "midi.ily"
-}
-
-\include "music/005.ily"
-\book {
-  \bookOutputSuffix "005"
-  \include "exercise.ily"
-  \include "midi.ily"
-}
-
-\include "music/006.ily"
-\book {
-  \bookOutputSuffix "006"
-  \include "exercise.ily"
-  \include "midi.ily"
-}
-
-
+\include "exercises.ily"
 
 
 
 
 #(set-global-staff-size 18)
 
-breaks = \autoLineBreaksOff
-\include "music/001.ily"
-\include "exercise.ily"
-
-opus = ##f
-\include "music/002.ily"
-\include "exercise.ily"
-
-breaks = \autoLineBreaksOn
-\include "music/003.ily"
-\include "exercise.ily"
-
-\include "music/004.ily"
-\include "exercise.ily"
-
-breaks = \autoLineBreaksOff
-\include "music/005.ily"
-\include "exercise.ily"
-
-breaks = \autoLineBreaksOn
-\include "music/006.ily"
-\include "exercise.ily"
+\include "book.ily"
