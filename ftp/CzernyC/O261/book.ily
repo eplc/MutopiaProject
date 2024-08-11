@@ -36,5 +36,9 @@ breaks = { s1 s \break s s s \break s s s}
 \include "music/008.ily"
 \include "lib/exercise.ily"
 
+breaks = \autoLineBreaksOn
 \include "music/009.ily"
+\include "lib/exercise.ily"
+
+\include "music/010.ily"
 \include "lib/exercise.ily"
