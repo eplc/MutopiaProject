@@ -1,3 +1,6 @@
+opus = "Op. 261"
+breaks = \autoLineBreaksOn
+
 \include "music/001.ily"
 \book {
   \bookOutputSuffix "001"

@@ -1,3 +1,5 @@
+#(set-global-staff-size 18)
+
 breaks = \autoLineBreaksOff
 \include "music/001.ily"
 \include "lib/exercise.ily"

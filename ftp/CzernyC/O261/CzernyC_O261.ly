@@ -22,14 +22,5 @@
  tagline = ##f
 }
 
-opus = "Op. 261"
-breaks = \autoLineBreaksOn
-
 \include "exercises.ily"
-
-
-
-
-#(set-global-staff-size 18)
-
 \include "book.ily"
