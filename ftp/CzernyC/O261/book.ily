@@ -42,3 +42,7 @@ breaks = \autoLineBreaksOn
 
 \include "music/010.ily"
 \include "lib/exercise.ily"
+
+breaks = \autoLineBreaksOff
+\include "music/011.ily"
+\include "lib/exercise.ily"
