@@ -10,6 +10,7 @@ rh = \relative c'' {
   f^1 a g^2 b a^3 c f, a g b a c |
   c,16^1 e d^2 f e^3 g g,^1 b a^2 c b^3 d |
   c^1 d e f g e c8 r r |
+  \bar "|."
 }
 
 dynamics = \relative {
