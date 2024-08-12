@@ -53,3 +53,12 @@ breaks = \autoLineBreaksOff
 breaks = \autoLineBreaksOn
 \include "music/012.ily"
 \include "lib/exercise.ily"
+
+\include "music/013.ily"
+\include "lib/exercise.ily"
+
+\pageBreak
+
+% Page 5
+\include "music/014.ily"
+\include "lib/exercise.ily"
