@@ -1,5 +1,7 @@
 \version "2.24.4"
 
+\include "../lib/helpers.ily"
+
 exercise = "15"
 meter = { \tempo 4 = 120 }
 
@@ -7,6 +9,7 @@ rh = \relative c'' {
   \tempo \markup "Allegretto"
   \key bes \major
   \time 3/4
+  \slursUnderStacatissimos
   r4 <d f>8^1^4( <ees g>^2^5 <d f> <ees g> |
   <d f>4^! ) <bes d>^!^2^4 <bes d>^! |
   r <c ees>8^1^3( <d f>^2^5 <c ees> <d f> |

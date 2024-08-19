@@ -1,10 +1,13 @@
 \version "2.24.4"
 
+\include "../lib/helpers.ily"
+
 exercise = "8"
 meter = { \tempo 4 = 130 }
 
 rh = \relative c'' {
   \tempo \markup "Allegro"
+  \slursUnderStacatissimos
   e8^!^1 f^! g^! f^! e^! f^! g^! f^! |
   e^! r c'16^2( d c d e8^!) r r4 |
 

@@ -1,5 +1,7 @@
 \version "2.24.4"
 
+\include "../lib/helpers.ily"
+
 exercise = "13"
 meter = { \tempo 4 = 110 }
 
@@ -7,6 +9,7 @@ rh = \relative a'' {
   \tempo \markup "Allegretto con anima"
   \key f \major
   \time 3/4
+  \slursUnderStacatissimos
   a4^!^3 a^! a16( c bes a |
   g4^!^2 ) g^! g16( bes a g |
   f4^!^1 ) f^!^2 f16( e f a |

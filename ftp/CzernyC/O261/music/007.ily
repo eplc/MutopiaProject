@@ -14,8 +14,7 @@ rh = \relative c'' {
   \tempo \markup "Allegretto vivace"
   \time 2/4
   \stemDown
-  \override Slur.positions = #'(0 . -1)
-  \customScripts #staccatissimo-padding
+  \slursUnderStacatissimos
   \set Timing.beamExceptions = #'()
   \set Timing.baseMoment = #(ly:make-moment 1 8)
 
