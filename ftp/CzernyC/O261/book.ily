@@ -62,3 +62,9 @@ breaks = \autoLineBreaksOn
 % Page 5
 \include "music/014.ily"
 \include "lib/exercise.ily"
+
+\include "music/015.ily"
+\include "lib/exercise.ily"
+
+\include "music/016.ily"
+\include "lib/exercise.ily"
