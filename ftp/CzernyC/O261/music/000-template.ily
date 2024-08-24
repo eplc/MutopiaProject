@@ -8,7 +8,7 @@ rh = \relative c' {
   
 }
 
-dynamics = \relative {
+dynamics = {
   
 }
 
