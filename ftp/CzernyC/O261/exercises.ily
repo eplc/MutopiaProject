@@ -113,6 +113,7 @@ breaks = \autoLineBreaksOn
   \include "lib/midi.ily"
 }
 
+#(set-global-staff-size 18)
 \include "music/017.ily"
 \book {
   \bookOutputSuffix "017"
@@ -120,9 +121,20 @@ breaks = \autoLineBreaksOn
   \include "lib/midi.ily"
 }
 
+#(set-global-staff-size 20)
 \include "music/018.ily"
 \book {
   \bookOutputSuffix "018"
   \include "lib/exercise.ily"
   \include "lib/midi.ily"
 }
+
+#(set-global-staff-size 18)
+\include "music/019.ily"
+\book {
+  \bookOutputSuffix "019"
+  \include "lib/exercise.ily"
+  \include "lib/midi.ily"
+}
+
+#(set-global-staff-size 20)
