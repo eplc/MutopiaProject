@@ -83,3 +83,9 @@ breaks = \autoLineBreaksOn
 
 \include "music/019.ily"
 \include "lib/exercise.ily"
+
+\pageBreak
+
+% Page 8
+\include "music/020.ily"
+\include "lib/exercise.ily"
