@@ -161,3 +161,9 @@ breaks = \autoLineBreaksOn
 }
 
 #(set-global-staff-size 20)
+\include "music/023.ily"
+\book {
+  \bookOutputSuffix "023"
+  \include "lib/exercise.ily"
+  \include "lib/midi.ily"
+}
