@@ -107,3 +107,6 @@ breaks = \autoLineBreaksOn
 
 \include "music/024.ily"
 \include "lib/exercise.ily"
+
+\include "music/025.ily"
+\include "lib/exercise.ily"
