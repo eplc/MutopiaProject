@@ -35,5 +35,4 @@ lh = \relative ees {
 
   <ees aes bes>_1_2_5 <ees aes bes> |
   <ees g bes> <ees g bes>8 r r4 |
-  
 }
