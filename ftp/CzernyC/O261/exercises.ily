@@ -195,3 +195,10 @@ breaks = \autoLineBreaksOn
   \include "lib/exercise.ily"
   \include "lib/midi.ily"
 }
+
+\include "music/028.ily"
+\book {
+  \bookOutputSuffix "028"
+  \include "lib/exercise.ily"
+  \include "lib/midi.ily"
+}
