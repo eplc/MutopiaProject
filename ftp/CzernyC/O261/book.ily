@@ -110,3 +110,6 @@ breaks = \autoLineBreaksOn
 
 \include "music/025.ily"
 \include "lib/exercise.ily"
+
+\include "music/026.ily"
+\include "lib/exercise.ily"

@@ -49,5 +49,4 @@ lh = \relative c {
   \stemNeutral c_1 b_2 c_1 g_2 e_4 g_2 c,8_5 r r |
 
   \bar "|."
-  
 }
